@@ -23,12 +23,12 @@
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/50/000000/python.png" alt="Python"/></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png" alt="C#"/></a>
   <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++"/></a>
-  <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/50/000000/react.png" alt="React" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" /></a>
   <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript"/></a>
   <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/50/000000/mysql.png" alt="MySQL"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="MS SQL Server"/>< a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="MS SQL Server"/></a>
 </p>
 
 ## 📫 Contact
