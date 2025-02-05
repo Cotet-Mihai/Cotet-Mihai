@@ -21,6 +21,7 @@
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/50/000000/python.png" alt="Python"/></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" alt="Flask"/></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png" alt="C#"/></a>
   <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++"/></a>
   <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" /></a>
