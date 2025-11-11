@@ -9,12 +9,12 @@
 
 <br><br>
 
-- :school: I am a `software developer` currently mastering `Python` and `Flask`.
-- :student: I’m a student at `Facultatea de Inginerie și Informatică, București`.
-- :technologist: I love using software as a solution for every `problem`.
-- :student: On the front-end, I am proficient in `JavaScript`, `HTML`, and `CSS`, and I am looking to improve my skills with `React`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open to new `job opportunities`.
+ - :computer: `Fullstack Developer` with strong experience in `Python`, `Flask`.
+ - :sparkles: Comfortable in the front-end with `Next.js`, `React`, `TypeScript`, and `Tailwind CSS`; experienced in using `shadcn/ui` for UI components.
+ - :gear: Skilled in building scalable `backends` and data-driven applications, with basic experience in `testing` and `automation`.
+ - :building_construction: Passionate about project `architecture` and always seeking the most `efficient`, `maintainable` structure.
+ - :books: Lifelong learner, exploring `modern web technologies` and `best practices`.
+ - :handshake: Open to collaboration and challenging projects.
 <br>
 
 ## 🛠️ My Skills
