@@ -7,14 +7,15 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-<br><br>
+<br>
 
- - :computer: `Fullstack Developer` with strong experience in `Python`, `Flask`.
- - :sparkles: Comfortable in the front-end with `Next.js`, `React`, `TypeScript`, and `Tailwind CSS`; experienced in using `shadcn/ui` for UI components.
- - :gear: Skilled in building scalable `backends` and data-driven applications, with basic experience in `testing` and `automation`.
- - :building_construction: Passionate about project `architecture` and always seeking the most `efficient`, `maintainable` structure.
- - :books: Lifelong learner, exploring `modern web technologies` and `best practices`.
- - :handshake: Open to collaboration and challenging projects.
+- :zap: Primary stack: deeply experienced with Next.js, TypeScript, and Supabase, building modern, performant, fullstack applications.<br>
+- :computer: Strong backend foundations with Python and Flask, used for APIs, automation, and scalable service design.<br>
+- :sparkles: Confidence in front-end development using React, Tailwind CSS, and component libraries like shadcn/ui.<br>
+- :gear: Skilled in designing clean, maintainable architectures and writing code that scales with the project.<br>
+- :books: Constant learner, exploring modern web technologies, best practices, and high-quality software patterns.<br>
+- :handshake: Open to collaboration, building impactful products, and tackling complex technical challenges.<br>
+
 <br>
 
 ## 🛠️ My Skills
@@ -27,6 +28,8 @@
   <a href="https://nextjs.org/"><img src="https://img.icons8.com/fluency/48/nextjs.png" alt="Next.js"/></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" alt="Flask"/></a>
   <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06b6d4" alt="Tailwind CSS" width="48" height="48" /></a>
+  <a href="https://ui.shadcn.com/"><img src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="48" height="48" /></a>
   <a href="https://robotframework.org/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/robotframework.svg" alt="Robot Framework" width="48" height="48"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/00758F" alt="MySQL" width="48" height="48"/></a>
