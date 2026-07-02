@@ -1,21 +1,22 @@
 <h1 align="center">Hi, I'm Coteț Mihai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer+at%40your_company;TypeScript+and+Next.js+Enthusiast;Always+Learning+New+Skills"></p>
 
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <br>
 
-- :zap: Primary stack: deeply experienced with TypeScript, Next.js, Vercel, Git/GitHub and Supabase, building modern, performant, fullstack applications.<br>
-- :computer: Strong backend foundations with Python, Flask, FastAPI used for APIs, automation, and scalable service design.<br>
-- :sparkles: Confidence in front-end development using React, Tailwind CSS, and libraries like ShadCN.<br>
-- :gear: Skilled in designing clean, maintainable architectures and writing code that scales with the project.<br>
-- :books: Constant learner, exploring modern web technologies, best practices, and high-quality software patterns.<br>
-- :handshake: Open to collaboration, building impactful products, and tackling complex technical challenges.<br>
+- Primary stack: deeply experienced with TypeScript, Next.js, Vercel, Git/GitHub and Supabase, building modern, performant, fullstack applications.<br>
+- Strong backend foundations with Python, Flask, FastAPI used for APIs, automation, and scalable service design.<br>
+- Confidence in front-end development using React, Tailwind CSS, and libraries like ShadCN.<br>
+- Skilled in designing clean, maintainable architectures and writing code that scales with the project.<br>
+- Constant learner, exploring modern web technologies, best practices, and high-quality software patterns.<br>
+- Open to collaboration, building impactful products, and tackling complex technical challenges.<br>
 
 <br>
 
-## 🛠️ My Skills
+## My Skills
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/></a>
@@ -40,4 +41,7 @@
   <a href="https://github.com/Cotet-Mihai"><img src="https://img.icons8.com/color/50/000000/github.png" alt="GitHub" width="50"/></a>
   <a href="https://www.linkedin.com/in/mihaita-cornel-cotet-97262b268/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" width="50"/></a>
   <a href="mailto:cotet.mihaita.cornel@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail" width="50"/></a>
+  <a href="https://cotetmihai.ro">
+    <img src="https://img.icons8.com/fluency/50/domain.png" alt="Portfolio" width="50"/>
+  </a>
 </p>
